@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eugenekartvelishvili
 - 👀 I’m interested in DS, AI and programming
-- 🌱 I’m currently learning ML models
+- 🌱 I’m currently learning ML
 - 💞️ Learn learn learn
 
 <!---
